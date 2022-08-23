@@ -1,0 +1,3 @@
+Enter a, b, and n
+[mpiexec@noreaster.teresco.org] Sending Ctrl-C to processes as requested
+[mpiexec@noreaster.teresco.org] Press Ctrl-C again to force abort
