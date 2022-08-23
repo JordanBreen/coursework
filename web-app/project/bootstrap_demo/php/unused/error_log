@@ -1,0 +1,5 @@
+[02-May-2022 09:26:51 America/Boise] PHP Warning:  require_once(./metadata/website.php): Failed to open stream: No such file or directory in /home3/sienasel/public_html/jm23bree/bootstrap_demo/php/sign_up.php on line 2
+[02-May-2022 09:26:51 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required './metadata/website.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/sienasel/public_html/jm23bree/bootstrap_demo/php/sign_up.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/sienasel/public_html/jm23bree/bootstrap_demo/php/sign_up.php on line 2
