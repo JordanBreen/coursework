@@ -1,0 +1,37 @@
+/home1/08426/tg877253/stampedempi-lab-JordanBreen
+Mon Oct 11 13:22:52 CDT 2021
+TACC:  Starting up job 8581973
+TACC:  Starting parallel tasks...
+Hello from Proc 2 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 6 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 9 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 10 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 12 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 13 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 14 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 15 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 16 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 18 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 19 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 20 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 23 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 26 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 27 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 28 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 30 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 31 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 0 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 1 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 3 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 4 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 5 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 7 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 8 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 11 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 17 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 21 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 22 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 24 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 25 of 32 on c448-124.stampede2.tacc.utexas.edu
+Hello from Proc 29 of 32 on c448-124.stampede2.tacc.utexas.edu
+TACC:  Shutdown complete. Exiting.
